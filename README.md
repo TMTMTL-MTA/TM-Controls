@@ -60,9 +60,8 @@ TM Control Glyphs for MTA:SA 1.6
 	This is a free resource for public domain by TMTMTL, designed specifically with the Owl Gaming gamemode and other roleplay gamemodes in mind, but with the possibility of it being used in any gamemode you like.
 	
 	[ Terms & Conditions:
-		1. You will not re-sell or reproduce this resource to make a profit.
-		2. Any modifications you make after installing this resource will invalidate any support.
-		3. You will not remove any authors credits from this resource.
+		1. Any modifications you make after installing this resource will invalidate any support.
+		2. You will not remove any authors credits from this resource.
 	]
 	
 	Need help with TM_Controls?
