@@ -1,7 +1,4 @@
-# TM-Controls
-TM Control Glyphs for MTA:SA 1.6
-
-# SETUP
+< SETUP >
 
 	Simply Drag-n-Drop this resource into your gamemode and add it to your mtaserver.conf or resource startup script and start your server!
 	
@@ -15,13 +12,15 @@ TM Control Glyphs for MTA:SA 1.6
 
 	In c_controls_minimap you will find the name where you can place your code to return true or false to allow padding for the minimap.
 	
-	# IT IS HIGHLY RECOMMENDED YOU DO NOT RENAME THE RESOURCE NAME
+	! IT IS HIGHLY RECOMMENDED YOU DO NOT RENAME THE RESOURCE NAME !
+	
+< SETUP />
 
-# EXPORTED FUNCTIONS
+< EXPORTED FUNCTIONS >
 
 	- TM_Controls has 4 exported functions.
 
-	# CLIENT
+	< ! CLIENT ! >
 	
 	bool areControlsImported(string controlPackName)
 	-- returns true if the given controlPackName is already imported, returns false if otherwise.
@@ -55,19 +54,21 @@ TM Control Glyphs for MTA:SA 1.6
 	
 	Refer to the 'keyToImage' table inside the 'g_controls.lua' file. Here you can find the current controls that can be displayed and you can also add your own if you choose to do so.
 
-# SUPPORT, DISCLAIMER, CREDITS & T'S & C'S
+< EXPORTED FUNCTIONS />
+
+< SUPPORT, DISCLAIMER, CREDITS & T'S & C'S >
 
 	This is a free resource for public domain by TMTMTL, designed specifically with the Owl Gaming gamemode and other roleplay gamemodes in mind, but with the possibility of it being used in any gamemode you like.
 	
 	[ Terms & Conditions:
-		1. You will not re-sell or reproduce this resource to make a profit.
+		1. You will not re-sell or reproduce this resource for profit.
 		2. Any modifications you make after installing this resource will invalidate any support.
-		3. You will not remove any authors credits from this resource.
+		3. You will not remove my credits from my resources.
 	]
 	
 	Need help with TM_Controls?
 	
-	Join the T-MTA Discord @ https://discord.gg/VGGxQ9STbu & Make a ticket to contact me!
+	Join the T-MTA @ https://discord.gg/VGGxQ9STbu & Make a ticket to contact me!
 	
 	If you choose to make any modifications or have any suggestions, why not show them off in the T-MTA Discord?
 	
@@ -75,3 +76,5 @@ TM Control Glyphs for MTA:SA 1.6
 
 	Credits to 'Nicolae Berbece' aka 'Zelu' from 'ThoseAwesomeGuys' for the Keyboard & Mouse images.
 	These assets are public domain and you can do with them as you please. (Read: https://www.reddit.com/r/gamedev/comments/1z0zid/free_keyboard_and_controllers_prompts_pack/)
+	
+< SUPPORT, DISCLAIMER, CREDITS & T'S & C'S />

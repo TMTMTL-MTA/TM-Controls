@@ -1,0 +1,106 @@
+<meta>
+	<info author="TMTMTL" type="script" description="New Controls Display Script"/>
+	
+	<script src="g_controls.lua" type="shared" cache="false"/>
+	<script src="c_controls.luac" type="client" cache="false"/>
+	<script src="c_controls_functions.luac" type="client" cache="false"/>
+	
+	<script src="c_controls_minimap.lua" type="client" cache="false"/>
+	
+	<script src="c_controls_example.lua" type="client"/>
+	
+	<export function="areControlsImported" type="client"/>
+	<export function="importControlPack" type="client"/>
+	<export function="showControlPack" type="client"/>
+	<export function="removeControlPack" type="client"/>
+	
+	<file src="fonts/controlfont.ttf"/>
+	
+	<file src="images/0_Key_Dark.png"/>
+	<file src="images/1_Key_Dark.png"/>
+	<file src="images/2_Key_Dark.png"/>
+	<file src="images/3_Key_Dark.png"/>
+	<file src="images/4_Key_Dark.png"/>
+	<file src="images/5_Key_Dark.png"/>
+	<file src="images/6_Key_Dark.png"/>
+	<file src="images/7_Key_Dark.png"/>
+	<file src="images/8_Key_Dark.png"/>
+	<file src="images/9_Key_Dark.png"/>
+	
+	<file src="images/F1_Key_Dark.png"/>
+	<file src="images/F2_Key_Dark.png"/>
+	<file src="images/F3_Key_Dark.png"/>
+	<file src="images/F4_Key_Dark.png"/>
+	<file src="images/F5_Key_Dark.png"/>
+	<file src="images/F6_Key_Dark.png"/>
+	<file src="images/F7_Key_Dark.png"/>
+	<file src="images/F8_Key_Dark.png"/>
+	<file src="images/F9_Key_Dark.png"/>
+	<file src="images/F10_Key_Dark.png"/>
+	<file src="images/F11_Key_Dark.png"/>
+	<file src="images/F12_Key_Dark.png"/>
+	
+	<file src="images/W_Key_Dark.png"/>
+	<file src="images/A_Key_Dark.png"/>
+	<file src="images/S_Key_Dark.png"/>
+	<file src="images/D_Key_Dark.png"/>
+	<file src="images/B_Key_Dark.png"/>
+	<file src="images/Q_Key_Dark.png"/>
+	<file src="images/E_Key_Dark.png"/>
+	<file src="images/R_Key_Dark.png"/>
+	<file src="images/T_Key_Dark.png"/>
+	<file src="images/Y_Key_Dark.png"/>
+	<file src="images/U_Key_Dark.png"/>
+	<file src="images/I_Key_Dark.png"/>
+	<file src="images/O_Key_Dark.png"/>
+	<file src="images/P_Key_Dark.png"/>
+	<file src="images/Plus_Key_Dark.png"/>
+	<file src="images/Minus_Key_Dark.png"/>
+	
+	<file src="images/C_Key_Dark.png"/>
+	<file src="images/F_Key_Dark.png"/>
+	<file src="images/G_Key_Dark.png"/>
+	<file src="images/H_Key_Dark.png"/>
+	<file src="images/J_Key_Dark.png"/>
+	<file src="images/K_Key_Dark.png"/>
+	<file src="images/L_Key_Dark.png"/>
+	<file src="images/Z_Key_Dark.png"/>
+	<file src="images/X_Key_Dark.png"/>
+	<file src="images/V_Key_Dark.png"/>
+	<file src="images/N_Key_Dark.png"/>
+	<file src="images/M_Key_Dark.png"/>
+	
+	<file src="images/Arrow_Up_Key_Dark.png"/>
+	<file src="images/Arrow_Down_Key_Dark.png"/>
+	<file src="images/Arrow_Right_Key_Dark.png"/>
+	<file src="images/Arrow_Left_Key_Dark.png"/>
+	
+	<file src="images/Asterisk_Key_Dark.png"/>
+	<file src="images/Bracket_Left_Key_Dark.png"/>
+	<file src="images/Bracket_Right_Key_Dark.png"/>
+	<file src="images/Caps_Lock_Key_Dark.png"/>
+	<file src="images/Del_Key_Dark.png"/>
+	<file src="images/End_Key_Dark.png"/>
+	<file src="images/Esc_Key_Dark.png"/>
+	<file src="images/Home_Key_Dark.png"/>
+	<file src="images/Insert_Key_Dark.png"/>
+	
+	<file src="images/Tab_Key_Dark.png"/>
+	<file src="images/Space_Key_Dark.png"/>
+	<file src="images/AltR_Key_Dark.png"/>
+	<file src="images/AltL_Key_Dark.png"/>
+	<file src="images/Enter_Key_Dark.png"/>
+	<file src="images/Backspace_Key_Dark.png"/>
+	<file src="images/ShiftR_Key_Dark.png"/>
+	<file src="images/ShiftL_Key_Dark.png"/>
+	<file src="images/Mouse_Simple_Key_Dark.png"/>
+	<file src="images/Mouse_Middle_Key_Dark.png"/>
+	<file src="images/Mouse_Left_Key_Dark.png"/>
+	<file src="images/Mouse_Right_Key_Dark.png"/>
+	<file src="images/Num_Lock_Key_Dark.png"/>
+	<file src="images/Page_Down_Key_Dark.png"/>
+	<file src="images/Page_Up_Key_Dark.png"/>
+	<file src="images/Print_Screen_Key_Dark.png"/>
+	
+	<min_mta_version client="1.3.1-9.04939" server="1.3.1" />
+</meta>
